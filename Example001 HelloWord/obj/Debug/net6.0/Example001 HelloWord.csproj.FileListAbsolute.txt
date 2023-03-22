@@ -1,0 +1,15 @@
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/bin/Debug/net6.0/Example001 HelloWord
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/bin/Debug/net6.0/Example001 HelloWord.deps.json
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/bin/Debug/net6.0/Example001 HelloWord.runtimeconfig.json
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/bin/Debug/net6.0/Example001 HelloWord.dll
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/bin/Debug/net6.0/Example001 HelloWord.pdb
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/obj/Debug/net6.0/Example001 HelloWord.csproj.AssemblyReference.cache
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/obj/Debug/net6.0/Example001 HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/obj/Debug/net6.0/Example001 HelloWord.AssemblyInfoInputs.cache
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/obj/Debug/net6.0/Example001 HelloWord.AssemblyInfo.cs
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/obj/Debug/net6.0/Example001 HelloWord.csproj.CoreCompileInputs.cache
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/obj/Debug/net6.0/Example001 HelloWord.dll
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/obj/Debug/net6.0/refint/Example001 HelloWord.dll
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/obj/Debug/net6.0/Example001 HelloWord.pdb
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/obj/Debug/net6.0/Example001 HelloWord.genruntimeconfig.cache
+/Users/aradarefi/Documents/courseWorks/Example/Example001 HelloWord/obj/Debug/net6.0/ref/Example001 HelloWord.dll
